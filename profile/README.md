@@ -1,9 +1,9 @@
 ## Hey there 👋 
 
-Welcome to **GitHub Discord**, we are an online community that
+Welcome to **GitDis**, we are an online community that
 aims to help and educate people about **GitHub** and the wonders
 of **open-source software development**. Feel free to join the
-[GitHub Discord server](https://discord.gg/ytCRYq4m), which is 
+[GitDis server](https://discord.gg/ytCRYq4m), which is 
 the hub of the *smartest branch in the Octoverse!*
 
 You *seem* to have stumbled upon our ✨ **GitHub organisation** ✨.
